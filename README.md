@@ -15,7 +15,8 @@
 
 | Тема | Открыть в Colab |
 |------|------------------|
-| [SQLite + Python: основы](cheatsheets/sqlite_cheatsheet.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ВАШ_ЮЗЕРНЕЙМ/SQL-cheatsheets/blob/main/cheatsheets/sqlite_cheatsheet.ipynb) |
+| [SQLite + Python: основы](cheatsheets/sqlite_cheatsheet.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/SQL-cheatsheets/blob/main/cheatsheets/sqlite_cheatsheet.ipynb) |
+
 
 ---
 
